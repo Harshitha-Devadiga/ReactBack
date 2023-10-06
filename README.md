@@ -4,9 +4,9 @@ Re learning react
 Author- Harshitha Devadiga (HarsH)
 </br>
 
-&nbsp;<p1>Git Hub Gauidlines:</p1>
-<p2><br>A)When you initially create Git respository & had worked in it,and now you want to clone it with your local device.</br></p2>
-<p3><br>1)git clone <Repositiry_Link> -> Copies the repository in github to local folder. </br> 
+<p1>Git Hub Gauidlines:</p1>
+&nbsp;<p2><br>A)When you initially create Git respository & had worked in it,and now you want to clone it with your local device.</br></p2>
+&nbsp;<p3><br>1)git clone <Repositiry_Link> -> Copies the repository in github to local folder. </br> 
 <br>2)Now you can do any changes want to do in the repository in local folder.</br>>
 <br>3)git cd <Repository_Name> ->To get into the repository.</br></p3>
 <br>3)i)git add <NameOfFolderYouModifiedAndWantToAddToGitHuB> :The respective folder is ready to commit.</br>
