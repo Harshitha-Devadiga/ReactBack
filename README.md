@@ -12,7 +12,7 @@ A)When you initially create Git respository & had worked in it,and now you want 
 		<br>&emsp;&emsp;
 3)git cd <Repository_Name> ->To get into the repository.
 		<br>&emsp;&emsp;
-4)i)git add <NameOfFolderYouModifiedAndWantToAddToGitHuB> :The respective folder is ready to commit.
+4)i)git add <folder_name> ->The respective folder is ready to commit.
  		<br>&emsp;&emsp;&emsp;
   ii)git add . ->All the folders which are modified are ready to commit.
 		<br>&emsp;&emsp;
