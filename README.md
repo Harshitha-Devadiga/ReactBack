@@ -31,4 +31,4 @@ If you want to update your local working directory to reflect the changes from t
 <b>git merge origin/main</b>
 <br>&emsp;&emsp;Replace main with the name of the branch you want to update.
 <br>&emsp;&emsp;ii. If you are using a more advanced workflow and want to incorporate the changes using rebase, you can use git pull:<b>git pull --rebase</b>
-<br>&emsp;&emsp;4.<b> git log </b->This command shows the commit history, including information about the latest commits that were fetched.
+<br>&emsp;&emsp;4.<b> git log </b>->This command shows the commit history, including information about the latest commits that were fetched.
